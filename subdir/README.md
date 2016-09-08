@@ -4,4 +4,6 @@ hi again
 
 [top](../)
 
+[top2](..)
+
 [top README](../README.md)
