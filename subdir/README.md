@@ -1,9 +1,11 @@
 hi again
 
-[drivers](../drivers)
+[../drivers](../drivers)
 
-[top](../) - does not work
+[../](../) - does not work
 
-[top2](..) - does not work
+[..](..) - does not work
 
-[top README](../README.md)
+[./..](./..) - does not work
+
+[../README.md](../README.md)
