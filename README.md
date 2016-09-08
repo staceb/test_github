@@ -1,5 +1,5 @@
-top-level readme
+# top-level readme
 
-[subdir](subdir)
+[link to subdir](subdir)
 
-[subdir/README.md](subdir/README.md)
+[link to subdir/README.md](subdir/README.md)

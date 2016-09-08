@@ -1,11 +1,11 @@
-hi again
+# subdir readme
 
-[../drivers](../drivers)
+[link to ../drivers](../drivers)
 
-[../](../) - does not work
+[link to ../](../) - does not work
 
-[..](..) - does not work
+[link to ..](..) - does not work
 
-[./..](./..) - does not work
+[link to ./..](./..) - does not work
 
-[../README.md](../README.md)
+[link to ../README.md](../README.md)
