@@ -2,7 +2,7 @@
 
 [link to ../drivers](../drivers)
 
-[link to ../](../) - does not work
+[link to ../](../tree/) - does not work
 
 [link to ..](..) - does not work
 
