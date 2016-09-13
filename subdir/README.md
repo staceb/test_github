@@ -10,6 +10,6 @@
 
 [link to ../README.md](../README.md)
 
-[link to ./..](./../) - does not work
+[link to ./..](/tree/master) - does not work
 [link to /](/) - does not work
 
